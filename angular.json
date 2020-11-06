@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "VL-Test-Angular"
+    }
+  },
+  "defaultProject": "VL-Test-Angular",
+  "cli": {
+    "analytics": "70a61d9c-67ce-4d84-bab1-430ece085b97"
+  }
 }
